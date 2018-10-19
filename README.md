@@ -1,0 +1,2 @@
+# bashrc
+Well a .bashrc
